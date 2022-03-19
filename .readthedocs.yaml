@@ -6,6 +6,10 @@ build:
   tools:
     python: "3.7"
 
-formats:
-  - pdf
-  - epub
+sphinx:
+  fail_on_warning: True
+  configuration: docs/source/conf.py
+
+python:
+   install:
+   - requirements: docs/requirements.txt
