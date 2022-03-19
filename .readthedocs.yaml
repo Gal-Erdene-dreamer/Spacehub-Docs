@@ -11,9 +11,9 @@ build:
   tools:
     python: "3.9"
     # You can also specify other tool versions:
-    install:
-    - method: pip
-      path: .
+#     install:
+#     - method: pip
+#       path: .
       
 sphinx:
   builder: html
@@ -23,3 +23,7 @@ sphinx:
 formats:
   - pdf
   - epub
+  
+python:
+   install:
+   - requirements: docs/requirements.txt
