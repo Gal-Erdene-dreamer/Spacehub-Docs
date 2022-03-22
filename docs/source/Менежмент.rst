@@ -8,7 +8,7 @@
 
 Гэрээ байгуулахын тулд эхлээд Спэйсхаб-д бүртгүүлэйрэй
 
-.. code-block:: python
+.. code-block:: console
 
    (.venv) $ pip install lumache
    
