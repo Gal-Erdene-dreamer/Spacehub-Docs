@@ -1,9 +1,9 @@
-Welcome to Lumache's documentation!
-===================================
+Welcome to Spacehub's documentation!
+====================================
 
-**Spacehub** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
+**Spacehub** (/spāshəb/) is a Technology company for technology and rental
+that helps customer to control real estate.
+It pulls data from the `Spacehub databse <https://v2.spacehub.mn/>`_
 and offers a *simple* and *intuitive* API.
 
 Check out the :doc:`usage` section for further information, including
@@ -13,7 +13,7 @@ how to :ref:`installation` the project.
 
    This project is under active development.
    
-Lumache has its documentation hosted on Read the Docs.
+Spacehub has its documentation hosted on Read the Docs.
 Spacehub
 
 Contents
