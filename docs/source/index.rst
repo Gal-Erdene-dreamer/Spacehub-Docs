@@ -21,5 +21,5 @@ Spacehub has its documentation hosted on Read the Docs.
 
 .. toctree::
 
-   Тйи
+   Менежмент
    Нэгтгэл
