@@ -3,14 +3,17 @@
 
 .. _installation:
 
-Installation
-------------
+Гэрээ
+-----
 
-To use Lumache, first install it using pip:
+Гэрээ байгуулахын тулд эхлээд Спэйсхаб-д бүртгүүлэйрэй
 
 .. code-block:: console
 
    (.venv) $ pip install lumache
+   
+   Харилцагч
+   ---------
 
 Creating recipes
 ----------------
