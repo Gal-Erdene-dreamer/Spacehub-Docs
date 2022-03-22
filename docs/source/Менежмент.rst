@@ -10,10 +10,10 @@
 
 .. code-block:: python
 
-   #(.venv) $ pip install lumache
+   (.venv) $ pip install lumache
    
-      Харилцагч
-      ---------
+Харилцагч
+---------
 
 Creating recipes
 ----------------
