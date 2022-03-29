@@ -4,4 +4,4 @@
 .. autosummary::
    :toctree: generated
 
-   lumache has
+   spacehub has
