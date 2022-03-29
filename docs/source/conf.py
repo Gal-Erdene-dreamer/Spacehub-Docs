@@ -3,6 +3,7 @@
 # -- Project information
 import os
 import sys
+import sphinx_theme
 sys.path.insert(0, os.path.abspath('../..'))
 
 project = 'Spacehub'
@@ -31,8 +32,9 @@ intersphinx_disabled_domains = ['std']
 templates_path = ['_templates']
 
 # -- Options for HTML output
-
-html_theme = 'sphinx_rtd_theme'
-
+html_theme = 'stanford_theme'
+html_theme_path = [sphinx_theme.get_html_theme_path('stanford-theme')]
+#html_theme = 'groundwork'
+#html_theme = 'nature'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
