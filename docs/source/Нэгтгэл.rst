@@ -1,5 +1,5 @@
-API
-===
+Нэгтгэл
+=======
 
 .. autosummary::
    :toctree: generated

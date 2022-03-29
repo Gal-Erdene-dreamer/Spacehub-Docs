@@ -1,16 +1,28 @@
-Usage
-=====
+Менежмент
+=========
 
 .. _installation:
 
-Installation
-------------
-
-To use Lumache, first install it using pip:
+Гэрээ
+-----
+Гэрээ байгуулахын тулд эхлээд Спэйсхаб-д бүртгүүлээрэй
 
 .. code-block:: console
 
    (.venv) $ pip install lumache
+   
+Гэрээ сунгалт
+-------------
+Гэрээ хаах
+----------
+Харилцагч
+---------
+Хэрэглэгч
+---------
+Барилга
+---------
+Эзэмшигч
+--------
 
 Creating recipes
 ----------------
@@ -31,4 +43,6 @@ For example:
 >>> import lumache
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
+
+
 
