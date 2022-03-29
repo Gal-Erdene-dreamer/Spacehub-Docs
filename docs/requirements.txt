@@ -4,5 +4,5 @@ readthedocs-sphinx-search==0.1.1
 sphinx
 groundwork-sphinx-theme
 sphinx-theme
-
+renku-sphinx-theme
 
