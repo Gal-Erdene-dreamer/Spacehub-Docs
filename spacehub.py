@@ -1,5 +1,5 @@
 """
-Lumache - Python library for cooks and food lovers.
+Spacehub - Спэйсхаб нь түрээслэгч болон түрээслүүлэгчдэд зориулсан түрээсийн платформ юм.
 """
 
 __version__ = "0.1.0"

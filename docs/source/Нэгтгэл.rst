@@ -4,4 +4,7 @@
 .. autosummary::
    :toctree: generated
 
-   lumache has
+   spacehub has
+.. autofunction:: spacehub.get_random_ingredients
+
+.. autoexception:: spacehub.InvalidKindError
