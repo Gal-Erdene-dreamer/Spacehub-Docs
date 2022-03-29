@@ -33,6 +33,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 html_theme = 'stanford_theme'
+html_theme_path = [sphinx_theme.get_html_theme_path('stanford-theme')]
 #html_theme = 'groundwork'
 #html_theme = 'nature'
 # -- Options for EPUB output
