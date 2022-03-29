@@ -5,4 +5,6 @@
    :toctree: generated
 
    spacehub has
-   spacehub.InvalidKindError(Exception)
+.. autofunction:: spacehub.get_random_ingredients
+
+.. autoexception:: spacehub.InvalidKindError
