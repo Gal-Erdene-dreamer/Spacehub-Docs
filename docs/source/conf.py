@@ -32,6 +32,7 @@ templates_path = ['_templates']
 
 # -- Options for HTML output
 
-html_theme = 'groundwork'
+#html_theme = 'groundwork'
+html_theme = 'nature'
 # -- Options for EPUB output
 epub_show_urls = 'footnote'
