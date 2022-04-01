@@ -5,6 +5,9 @@
 
 Гэрээ
 -----
+.. image:: https://unsplash.com/photos/z1bgE0w0kZg
+   :height: 400
+   :width: 400
 Гэрээ байгуулахын тулд эхлээд Спэйсхаб-д бүртгүүлээрэй
    
 Харилцагч
