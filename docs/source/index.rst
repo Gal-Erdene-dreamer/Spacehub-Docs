@@ -13,7 +13,7 @@ Welcome to Spacehub's documentation!
    
 Spacehub-ийн баримт бичиг нь Read the Docs-ийг ашиглан бүтээгдсэн.
 
-.. image:: https://github.com/Gal-Erdene-dreamer/Spacehub-Docs/blob/Spacehub-patch-2-1/docs/source/dolomiti-italy-autumn-lago-antorno-landscape-photography-desktop-hd-wallpaper-for-pc-tablet-and-mobile-3840%C3%972400-wallpaper-thumb.jpg
+.. image:: https://raw.githubusercontent.com/Gal-Erdene-dreamer/Spacehub-Docs/Spacehub-patch-2-1/docs/source/dolomiti-italy-autumn-lago-antorno-landscape-photography-desktop-hd-wallpaper-for-pc-tablet-and-mobile-3840%C3%972400-wallpaper-thumb.jpg
    :align: center
    :height: 200
    :width: 400
