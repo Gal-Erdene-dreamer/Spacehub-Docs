@@ -13,7 +13,12 @@ Welcome to Spacehub's documentation!
    
 Spacehub-ийн баримт бичиг нь Read the Docs-ийг ашиглан бүтээгдсэн.
 
-
+.. image:: 
+   :align: left
+   :height: 200
+   :width: 200
+   
+   
 Агуулга
 -------
 
