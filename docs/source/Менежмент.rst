@@ -13,6 +13,13 @@
 
 * Гэрээ
    #. Гэрээ сунгалт
+   
+   .. image:: https://images.unsplash.com/photo-1579487785973-74d2ca7abdd5?ixlib=rb-               1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80
+      :align: right
+      :height: 300
+      :width: 400
+   
+   
    #. Гэрээ үүсгэх
    #. Гэрээ хайх
    #. Гэрээний мэдээлэл
